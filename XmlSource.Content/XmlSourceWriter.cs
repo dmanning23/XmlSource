@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler;
 using System.Xml;
 
-namespace XmlSource
+namespace XmlSource.Content
 {
 	/// <summary>
 	/// This class will be instantiated by the XNA Content Pipeline to write the specified data type into binary .xnb format.
